@@ -1,2 +1,1 @@
-console.log("monday")
-console.log("tuesday")
+console.log("I am in main first")
