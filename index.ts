@@ -1,1 +1,1 @@
-console.log("I am in main seconds")
+console.log("Day1")
