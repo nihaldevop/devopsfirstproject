@@ -1,1 +1,1 @@
-console.log("Day1")
+console.log("main")
