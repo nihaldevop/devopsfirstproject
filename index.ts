@@ -1,3 +1,2 @@
-console.log("abc")
-console.log("xyz")
-console.log("main")
+console.log("Hello world")
+
